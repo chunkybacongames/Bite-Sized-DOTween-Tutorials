@@ -1,5 +1,4 @@
-# Moving with DOTween in Unity
+# Bite-Sized DOTween Tutorials
 
-A simple script for tweening movement in Unity using DOTween.
-
+Moving an object
 Tutorial: [https://youtu.be/BsDiOyZ74fI](https://youtu.be/BsDiOyZ74fI)
