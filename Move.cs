@@ -6,7 +6,7 @@ public class Move : MonoBehaviour
     private void Start()
     {
         OnMoveXAxis();
-        //OnMoveX();
+        //OnMove();
     }
     
     private void OnMoveXAxis()
@@ -16,7 +16,7 @@ public class Move : MonoBehaviour
             .SetEase(Ease.InOutSine);
     }
     
-    private void OnMoveX()
+    private void OnMove()
     {
         Vector3 position = new Vector3(5.0f, 4.0f, 3.0f);
         transform.DOMove(position, 2.0f)
